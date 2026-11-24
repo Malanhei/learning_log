@@ -1,0 +1,2 @@
+# Хранить текстовые файлы с LF, чтобы Dockerfile и скрипты работали в Linux.
+* text=auto eol=lf
